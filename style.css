@@ -1,0 +1,14 @@
+body{
+    color: #fff;
+	background: #1f2937;
+	font-family: verdana, sans-serif;
+}
+.scoreboard {
+    min-height: 100vh;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: px;
+    font-weight: 800;
+}
